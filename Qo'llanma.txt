@@ -1,0 +1,5 @@
+Bu yozilgan kodda mehmonxona va Restoran uchun crm tayyorlangan ya'ni chet ellik odamlar ya'ni turistlar uchun qulaylik yaratuvchi dastur:
+Bu kodning bo'limida main.view da barcha CRUDlar va uning urllari yozilgan
+account.view da barcha all berib yuborish yoki GET jo'natish va account.url da GET larning urllari yozilgan
+dashboard.view da esa barcha filterlar dashboard.urls da barcha filterlar urllari mavjud:
+Ogohlantirb o'taman bu kodlar unchalik ham murakkab emas ammo inson uchun foydali.
